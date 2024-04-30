@@ -1,7 +1,9 @@
 # Bus_Reservation_System
+![bus_reserved](https://github.com/Pabitra-33/Bus_Reservation_System/assets/112860906/7f74fd41-45b4-46eb-9c15-2c68fa255f28)
+ 
 Developed a bus reservation system project by using C programming language, it is a command line application helps the user to login and book ticket for available bus for a smooth ride.
-Step-by-Step Explanation of the code:
 
+Step-by-Step Explanation of the code:
 1. Initialization of Structures and Variables:<br>
 The code starts by defining three structures: `struct Bus` to store bus information, `struct Passenger` for passenger details, and `struct User` to store user login information.
 It also includes necessary libraries and declares functions for displaying menus, user login, booking tickets, canceling tickets, and checking bus status.
